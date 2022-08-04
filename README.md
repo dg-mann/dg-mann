@@ -5,7 +5,7 @@
 - 📫 How to reach me [paul@degemann.de](mailto:paul@degemann.de "paul@degemann.de")
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,sass,nodejs,wordpress,bootstrap,git,nuxt,pwa)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,sass,nodejs,wordpress,bootstrap,git,nuxt)
 
 <!---
 dg-mann/dg-mann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
