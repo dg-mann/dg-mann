@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @dg-mann
 - 👀 I’m interested in photography, mountainbike, 3D printing
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on cool and innovative projects
-- 📫 How to reach me [paul@degemann.de](mailto:paul@degemann.de "paul@degemann.de")
-
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,sass,nodejs,wordpress,bootstrap,git,nuxt)
 
